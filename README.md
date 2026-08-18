@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Shubham Shrestha 👋</h1>
 
-<!--
-**Shubhamshrestha0890/Shubhamshrestha0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Building my career at the intersection of the business and tech.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on a CCTV-monitored inventory management system.
+- 🌱 Currently learning Django.
+- 💬 Ask me about turning business workflows into working software.
+- 📫 Reach me at https://www.linkedin.com/in/shubham-shrestha-01a4183ba/
+- ⚡ Fun fact: I'd rather automate a task once than repeat it a hundred times.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** `JavaScript` `TypeScript` `Python` `Java`  
+**Frontend:** `React` `Tailwind CSS`   
+**Backend:** `Node.js` `Express` `Django`  
+**Tools:** `Git` `GitHub` `VS Code` 
+
+---
+
+### 📌 Featured Projects
+
+**[Project Name 1](https://github.com/Shubhamshrestha0890/New_4S_Traders)**  
+A cyber image of our business.
+
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shubham-shrestha-01a4183ba/) • [Portfolio](https://your-portfolio.com) • [Email](shresthashubham618@gmail.com)
