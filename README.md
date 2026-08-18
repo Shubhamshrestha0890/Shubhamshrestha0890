@@ -1,44 +1,64 @@
-<h1 align="center">Hi, I'm Shubham Shrestha 👋</h1>
 
-<p align="center">
-  Building my career at the intersection of the business and tech.
+# 👋 Hey, I'm Shubham
+
+• ⚙️ Building projects that intersect business world & tech.**
+
+I work professionally as **Entrepreneur**, but development has always been part of how I solve problems.
+
+I treat time like it's running out — every project here exists because I'd rather build than wait around.
+
+---
+
+# ⚡ What I Do
+
+- 📊 Work as **Entrepreneur** 
+- 💻 Build projects by **spotting problems that should've been solved already**
+- 📦 Use GitHub to **store projects, prototypes, and experiments**
+- 🤖 Combine **AI + manual coding** to build tools faster
+- ⚙️ Use code to **visualize workflows**
+  
+
+In short: less **'developer,' more 'person who noticed a business problem and decided to code the fix.'**
+
+---
+
+# 🛠️ Technologies I Use
+
+### 💻 Development
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git" />
 </p>
 
----
+### ☁️ Platforms & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,firebase,supabase,github" />
+</p>
 
-### 🚀 About Me
-- 🔭 Currently working on a CCTV-monitored inventory management system.
-- 🌱 Currently learning Django.
-- 💬 Ask me about turning business workflows into working software.
-- 📫 Reach me at https://www.linkedin.com/in/shubham-shrestha-01a4183ba/
-- ⚡ Fun fact: I'd rather automate a task once than repeat it a hundred times.
+# 📊 GitHub Activity
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+<img src="https://github-readme-stats.vercel.app/api?username=dhirendraxd&theme=react&hide_border=true&show_icons=true" height="160"/>
 
-**Languages:** `JavaScript` `TypeScript` `Python` `Java`  
-**Frontend:** `React` `Tailwind CSS`   
-**Backend:** `Node.js` `Express` `Django`  
-**Tools:** `Git` `GitHub` `VS Code` 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=dhirendraxd&theme=react&hide_border=true" height="160"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&layout=compact&theme=react&hide_border=true" height="160"/>
 
-### 📌 Featured Projects
+</div>
 
-**[New 4S Traders](https://github.com/Shubhamshrestha0890/New_4S_Traders)**  
-A cyber image of our business.
-
-
+A friendly reminder that **GitHub stats measure activity, not sleep quality.**
 
 ---
 
-### 📊 GitHub Stats
+# 🌍 Connect With Me
 
-<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Shubhamshrestha0890&show_icons=true&theme=default" alt="GitHub Stats" /> </p>
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio |  |
+| 💼 LinkedIn | https://www.linkedin.com/in/shubham-shrestha-01a4183ba/ |
+| 🐦 Twitter/X |  |
+| 📧 Email | shresthashubham618@gmail.com |
 
 ---
 
-### 🌐 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/shubham-shrestha-01a4183ba/) • [Portfolio](https://your-portfolio.com) • [Email](shresthashubham618@gmail.com)
+**Fueled by urgency, self-improvement, and the refusal to stay still.**
