@@ -38,11 +38,11 @@ In short: less **'developer,' more 'person who noticed a business problem and de
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhirendraxd&theme=react&hide_border=true&show_icons=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shubhamshrestha0890&theme=react&hide_border=true&show_icons=true" height="160"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=dhirendraxd&theme=react&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhamshrestha0890&theme=react&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhirendraxd&layout=compact&theme=react&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamshrestha0890&layout=compact&theme=react&hide_border=true" height="160"/>
 
 </div>
 
