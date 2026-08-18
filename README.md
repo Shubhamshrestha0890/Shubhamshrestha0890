@@ -1,7 +1,7 @@
 
 # 👋 Hey, I'm Shubham
 
-• ⚙️ Building projects that intersect business world & tech.**
+**• ⚙️ Building projects that intersect business world & tech.**
 
 I work professionally as **Entrepreneur**, but development has always been part of how I solve problems.
 
