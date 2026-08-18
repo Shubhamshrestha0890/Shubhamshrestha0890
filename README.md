@@ -26,7 +26,7 @@
 
 ### 📌 Featured Projects
 
-**[Project Name 1](https://github.com/Shubhamshrestha0890/New_4S_Traders)**  
+**[New 4S Traders](https://github.com/Shubhamshrestha0890/New_4S_Traders)**  
 A cyber image of our business.
 
 
