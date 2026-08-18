@@ -35,7 +35,7 @@ A cyber image of our business.
 
 ### 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Shubhamshrestha0890&show_icons=true&theme=default" alt="GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-stats-extended.vercel.app/api?username=Shubhamshrestha0890&show_icons=true&theme=default" alt="GitHub Stats" /> </p>
 
 ---
 
